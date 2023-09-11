@@ -1,0 +1,7 @@
+{
+  "name": "AsisteMax",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
